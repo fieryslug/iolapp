@@ -8,9 +8,21 @@
     tools:context=".MainActivity">
 
     <ImageView
+        android:id="@+id/img_main_logo"
+        android:layout_width="400dp"
+        android:layout_height="300dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/iol_logo"/>
+
+    <Button
+        android:id="@+id/bt_main_start"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/iol_logo"/>
+        android:layout_below="@+id/img_main_logo"
+        android:layout_centerHorizontal="true"
+        android:text="hello"/>
+
 
 
 </RelativeLayout>

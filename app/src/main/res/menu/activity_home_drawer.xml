@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="IOLing">
+
+        <menu>
+            <item
+                android:id="@+id/prob_coll"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Problem Collection" />
+            <item
+                android:id="@+id/nav_prob_sol"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Problem Solving" />
+            <item
+                android:id="@+id/nav_prob_test"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Problem Testing" />
+            <item
+                android:id="@+id/nav_history"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Past Contests" />
+            <item
+                android:id="@+id/nav_jeopardy"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Jeopardy" />
+        </menu>
+
+    </item>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_memes"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Memes" />
+        <item
+            android:id="@+id/nav_mem_pics"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Memories and Pics" />
+        <item
+            android:id="@+id/nav_friends"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Friends" />
+        <item
+            android:id="@+id/nav_trivia"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Language Trivia" />
+
+        <item
+            android:id="@+id/nav_games"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Games" />
+
+        <item
+            android:id="@+id/nav_conlang"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Conlanging" />
+
+        <item
+            android:id="@+id/nav_ivan"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Ivan Derzhanski" />
+
+
+    </group>
+
+
+
+</menu>
