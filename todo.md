@@ -1,31 +1,55 @@
 # Todo list
 
-## 1. IOL Best of the Memes
+## Feature/Content
 
-## 2. IOL Memories and Pics
+1. IOL Best of the Memes
 
-## 3. Make a Friend
+2. IOL Memories and Pics
 
-## 4. Language Trivia
+3. Make a Friend
 
-## 5. Games
+4. Language Trivia
 
-## 6. Gource
+5. Games
 
-## 7. Conlanging
+6. Conlanging
 
-## 8. Problem Solving
+7. Problem Solving
 
-## 9. Problem Testing
+8. Problem Testing
 
-## 10. Ivan
+9. Ivan
 
-## 11. Past Contests
+10. Past Contests
 
-## 12. Jeopardy
+11. Jeopardy
 
-## 13. Problem Collection
+12. Problem Collection
 
-## 14. Ads
+## Images to be drawn
+
+### Icons
+
+1. "Problem Collection" icon
+2. "Problem Solving" icon
+3. "Problem Testing" icon
+4. "Past Contests" icon
+5. "Jeopardy" icon
+6. "Memes" icon
+7. "Memories and Pics" icon
+8. "Friends" icon
+9. "Language Trivia" icon
+10. "Games" icon
+11. "Conlanging" icon
+12. "Ivan Derzhanski" icon
+
+### Background
+
+
+
+## Misc
+
+1. Gource
+2. Ad ?
 
 
