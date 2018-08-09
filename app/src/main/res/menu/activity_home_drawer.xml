@@ -7,7 +7,7 @@
 
         <menu>
             <item
-                android:id="@+id/prob_coll"
+                android:id="@+id/nav_prob_coll"
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Problem Collection" />
             <item
@@ -45,12 +45,12 @@
             android:title="Friends" />
         <item
             android:id="@+id/nav_trivia"
-            android:icon="@drawable/ic_menu_manage"
+            android:icon="@drawable/icon_menu_gallery"
             android:title="Language Trivia" />
 
         <item
             android:id="@+id/nav_games"
-            android:icon="@drawable/ic_menu_manage"
+            android:icon="@drawable/icon_game_ss1t"
             android:title="Games" />
 
         <item

@@ -39,7 +39,7 @@
 7. "Memories and Pics" icon
 8. "Friends" icon
 9. "Language Trivia" icon
-10. "Games" icon
+10. ~~"games" icon~~
 11. "Conlanging" icon
 12. "Ivan Derzhanski" icon
 
